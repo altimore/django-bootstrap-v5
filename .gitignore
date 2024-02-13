@@ -67,3 +67,5 @@ reports
 example/db.sqlite3
 
 *.swp*
+
+.vscode/
